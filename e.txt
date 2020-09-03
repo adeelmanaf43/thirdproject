@@ -1,1 +1,4 @@
 e.txt 
+
+
+changes to check git reset -- hard
